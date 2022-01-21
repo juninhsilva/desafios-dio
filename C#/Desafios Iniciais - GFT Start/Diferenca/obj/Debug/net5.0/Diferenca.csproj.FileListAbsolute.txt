@@ -1,0 +1,16 @@
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Diferenca/bin/Debug/net5.0/Diferenca
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Diferenca/bin/Debug/net5.0/Diferenca.deps.json
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Diferenca/bin/Debug/net5.0/Diferenca.runtimeconfig.json
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Diferenca/bin/Debug/net5.0/Diferenca.runtimeconfig.dev.json
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Diferenca/bin/Debug/net5.0/Diferenca.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Diferenca/bin/Debug/net5.0/ref/Diferenca.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Diferenca/bin/Debug/net5.0/Diferenca.pdb
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Diferenca/obj/Debug/net5.0/Diferenca.csproj.AssemblyReference.cache
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Diferenca/obj/Debug/net5.0/Diferenca.GeneratedMSBuildEditorConfig.editorconfig
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Diferenca/obj/Debug/net5.0/Diferenca.AssemblyInfoInputs.cache
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Diferenca/obj/Debug/net5.0/Diferenca.AssemblyInfo.cs
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Diferenca/obj/Debug/net5.0/Diferenca.csproj.CoreCompileInputs.cache
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Diferenca/obj/Debug/net5.0/Diferenca.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Diferenca/obj/Debug/net5.0/ref/Diferenca.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Diferenca/obj/Debug/net5.0/Diferenca.pdb
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Diferenca/obj/Debug/net5.0/Diferenca.genruntimeconfig.cache

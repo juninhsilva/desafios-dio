@@ -1,0 +1,16 @@
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/CalculoSimples/bin/Debug/net5.0/CalculoSimples
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/CalculoSimples/bin/Debug/net5.0/CalculoSimples.deps.json
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/CalculoSimples/bin/Debug/net5.0/CalculoSimples.runtimeconfig.json
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/CalculoSimples/bin/Debug/net5.0/CalculoSimples.runtimeconfig.dev.json
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/CalculoSimples/bin/Debug/net5.0/CalculoSimples.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/CalculoSimples/bin/Debug/net5.0/ref/CalculoSimples.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/CalculoSimples/bin/Debug/net5.0/CalculoSimples.pdb
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/CalculoSimples/obj/Debug/net5.0/CalculoSimples.csproj.AssemblyReference.cache
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/CalculoSimples/obj/Debug/net5.0/CalculoSimples.GeneratedMSBuildEditorConfig.editorconfig
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/CalculoSimples/obj/Debug/net5.0/CalculoSimples.AssemblyInfoInputs.cache
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/CalculoSimples/obj/Debug/net5.0/CalculoSimples.AssemblyInfo.cs
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/CalculoSimples/obj/Debug/net5.0/CalculoSimples.csproj.CoreCompileInputs.cache
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/CalculoSimples/obj/Debug/net5.0/CalculoSimples.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/CalculoSimples/obj/Debug/net5.0/ref/CalculoSimples.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/CalculoSimples/obj/Debug/net5.0/CalculoSimples.pdb
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/CalculoSimples/obj/Debug/net5.0/CalculoSimples.genruntimeconfig.cache

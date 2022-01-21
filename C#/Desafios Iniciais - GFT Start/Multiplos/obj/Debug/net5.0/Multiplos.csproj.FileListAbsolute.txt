@@ -1,0 +1,16 @@
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Multiplos/obj/Debug/net5.0/Multiplos.csproj.AssemblyReference.cache
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Multiplos/obj/Debug/net5.0/Multiplos.GeneratedMSBuildEditorConfig.editorconfig
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Multiplos/obj/Debug/net5.0/Multiplos.AssemblyInfoInputs.cache
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Multiplos/obj/Debug/net5.0/Multiplos.AssemblyInfo.cs
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Multiplos/obj/Debug/net5.0/Multiplos.csproj.CoreCompileInputs.cache
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Multiplos/bin/Debug/net5.0/Multiplos
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Multiplos/bin/Debug/net5.0/Multiplos.deps.json
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Multiplos/bin/Debug/net5.0/Multiplos.runtimeconfig.json
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Multiplos/bin/Debug/net5.0/Multiplos.runtimeconfig.dev.json
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Multiplos/bin/Debug/net5.0/Multiplos.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Multiplos/bin/Debug/net5.0/ref/Multiplos.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Multiplos/bin/Debug/net5.0/Multiplos.pdb
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Multiplos/obj/Debug/net5.0/Multiplos.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Multiplos/obj/Debug/net5.0/ref/Multiplos.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Multiplos/obj/Debug/net5.0/Multiplos.pdb
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Multiplos/obj/Debug/net5.0/Multiplos.genruntimeconfig.cache
