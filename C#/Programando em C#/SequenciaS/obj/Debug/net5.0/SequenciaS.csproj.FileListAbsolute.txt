@@ -1,0 +1,16 @@
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SequenciaS/bin/Debug/net5.0/SequenciaS
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SequenciaS/bin/Debug/net5.0/SequenciaS.deps.json
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SequenciaS/bin/Debug/net5.0/SequenciaS.runtimeconfig.json
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SequenciaS/bin/Debug/net5.0/SequenciaS.runtimeconfig.dev.json
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SequenciaS/bin/Debug/net5.0/SequenciaS.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SequenciaS/bin/Debug/net5.0/ref/SequenciaS.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SequenciaS/bin/Debug/net5.0/SequenciaS.pdb
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SequenciaS/obj/Debug/net5.0/SequenciaS.csproj.AssemblyReference.cache
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SequenciaS/obj/Debug/net5.0/SequenciaS.GeneratedMSBuildEditorConfig.editorconfig
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SequenciaS/obj/Debug/net5.0/SequenciaS.AssemblyInfoInputs.cache
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SequenciaS/obj/Debug/net5.0/SequenciaS.AssemblyInfo.cs
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SequenciaS/obj/Debug/net5.0/SequenciaS.csproj.CoreCompileInputs.cache
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SequenciaS/obj/Debug/net5.0/SequenciaS.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SequenciaS/obj/Debug/net5.0/ref/SequenciaS.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SequenciaS/obj/Debug/net5.0/SequenciaS.pdb
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SequenciaS/obj/Debug/net5.0/SequenciaS.genruntimeconfig.cache

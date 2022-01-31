@@ -1,0 +1,15 @@
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/TesteSelecao/bin/Debug/net6.0/TesteSelecao
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/TesteSelecao/bin/Debug/net6.0/TesteSelecao.deps.json
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/TesteSelecao/bin/Debug/net6.0/TesteSelecao.runtimeconfig.json
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/TesteSelecao/bin/Debug/net6.0/TesteSelecao.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/TesteSelecao/bin/Debug/net6.0/ref/TesteSelecao.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/TesteSelecao/bin/Debug/net6.0/TesteSelecao.pdb
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/TesteSelecao/obj/Debug/net6.0/TesteSelecao.csproj.AssemblyReference.cache
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/TesteSelecao/obj/Debug/net6.0/TesteSelecao.GeneratedMSBuildEditorConfig.editorconfig
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/TesteSelecao/obj/Debug/net6.0/TesteSelecao.AssemblyInfoInputs.cache
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/TesteSelecao/obj/Debug/net6.0/TesteSelecao.AssemblyInfo.cs
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/TesteSelecao/obj/Debug/net6.0/TesteSelecao.csproj.CoreCompileInputs.cache
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/TesteSelecao/obj/Debug/net6.0/TesteSelecao.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/TesteSelecao/obj/Debug/net6.0/ref/TesteSelecao.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/TesteSelecao/obj/Debug/net6.0/TesteSelecao.pdb
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/TesteSelecao/obj/Debug/net6.0/TesteSelecao.genruntimeconfig.cache

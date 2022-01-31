@@ -1,0 +1,16 @@
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/VaiTerCopa/bin/Debug/net5.0/VaiTerCopa
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/VaiTerCopa/bin/Debug/net5.0/VaiTerCopa.deps.json
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/VaiTerCopa/bin/Debug/net5.0/VaiTerCopa.runtimeconfig.json
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/VaiTerCopa/bin/Debug/net5.0/VaiTerCopa.runtimeconfig.dev.json
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/VaiTerCopa/bin/Debug/net5.0/VaiTerCopa.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/VaiTerCopa/bin/Debug/net5.0/ref/VaiTerCopa.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/VaiTerCopa/bin/Debug/net5.0/VaiTerCopa.pdb
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/VaiTerCopa/obj/Debug/net5.0/VaiTerCopa.csproj.AssemblyReference.cache
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/VaiTerCopa/obj/Debug/net5.0/VaiTerCopa.GeneratedMSBuildEditorConfig.editorconfig
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/VaiTerCopa/obj/Debug/net5.0/VaiTerCopa.AssemblyInfoInputs.cache
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/VaiTerCopa/obj/Debug/net5.0/VaiTerCopa.AssemblyInfo.cs
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/VaiTerCopa/obj/Debug/net5.0/VaiTerCopa.csproj.CoreCompileInputs.cache
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/VaiTerCopa/obj/Debug/net5.0/VaiTerCopa.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/VaiTerCopa/obj/Debug/net5.0/ref/VaiTerCopa.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/VaiTerCopa/obj/Debug/net5.0/VaiTerCopa.pdb
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/VaiTerCopa/obj/Debug/net5.0/VaiTerCopa.genruntimeconfig.cache

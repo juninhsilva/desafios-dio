@@ -1,0 +1,16 @@
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SucessorPar/bin/Debug/net5.0/SucessorPar
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SucessorPar/bin/Debug/net5.0/SucessorPar.deps.json
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SucessorPar/bin/Debug/net5.0/SucessorPar.runtimeconfig.json
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SucessorPar/bin/Debug/net5.0/SucessorPar.runtimeconfig.dev.json
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SucessorPar/bin/Debug/net5.0/SucessorPar.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SucessorPar/bin/Debug/net5.0/ref/SucessorPar.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SucessorPar/bin/Debug/net5.0/SucessorPar.pdb
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SucessorPar/obj/Debug/net5.0/SucessorPar.csproj.AssemblyReference.cache
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SucessorPar/obj/Debug/net5.0/SucessorPar.GeneratedMSBuildEditorConfig.editorconfig
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SucessorPar/obj/Debug/net5.0/SucessorPar.AssemblyInfoInputs.cache
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SucessorPar/obj/Debug/net5.0/SucessorPar.AssemblyInfo.cs
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SucessorPar/obj/Debug/net5.0/SucessorPar.csproj.CoreCompileInputs.cache
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SucessorPar/obj/Debug/net5.0/SucessorPar.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SucessorPar/obj/Debug/net5.0/ref/SucessorPar.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SucessorPar/obj/Debug/net5.0/SucessorPar.pdb
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SucessorPar/obj/Debug/net5.0/SucessorPar.genruntimeconfig.cache

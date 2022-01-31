@@ -1,0 +1,16 @@
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/QuadradoDePares/obj/Debug/net5.0/QuadradoDePares.csproj.AssemblyReference.cache
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/QuadradoDePares/obj/Debug/net5.0/QuadradoDePares.GeneratedMSBuildEditorConfig.editorconfig
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/QuadradoDePares/obj/Debug/net5.0/QuadradoDePares.AssemblyInfoInputs.cache
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/QuadradoDePares/obj/Debug/net5.0/QuadradoDePares.AssemblyInfo.cs
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/QuadradoDePares/obj/Debug/net5.0/QuadradoDePares.csproj.CoreCompileInputs.cache
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/QuadradoDePares/bin/Debug/net5.0/QuadradoDePares
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/QuadradoDePares/bin/Debug/net5.0/QuadradoDePares.deps.json
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/QuadradoDePares/bin/Debug/net5.0/QuadradoDePares.runtimeconfig.json
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/QuadradoDePares/bin/Debug/net5.0/QuadradoDePares.runtimeconfig.dev.json
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/QuadradoDePares/bin/Debug/net5.0/QuadradoDePares.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/QuadradoDePares/bin/Debug/net5.0/ref/QuadradoDePares.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/QuadradoDePares/bin/Debug/net5.0/QuadradoDePares.pdb
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/QuadradoDePares/obj/Debug/net5.0/QuadradoDePares.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/QuadradoDePares/obj/Debug/net5.0/ref/QuadradoDePares.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/QuadradoDePares/obj/Debug/net5.0/QuadradoDePares.pdb
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/QuadradoDePares/obj/Debug/net5.0/QuadradoDePares.genruntimeconfig.cache

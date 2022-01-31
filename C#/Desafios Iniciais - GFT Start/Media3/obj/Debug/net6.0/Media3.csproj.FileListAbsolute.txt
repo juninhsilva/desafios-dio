@@ -1,0 +1,15 @@
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Media3/bin/Debug/net6.0/Media3
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Media3/bin/Debug/net6.0/Media3.deps.json
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Media3/bin/Debug/net6.0/Media3.runtimeconfig.json
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Media3/bin/Debug/net6.0/Media3.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Media3/bin/Debug/net6.0/ref/Media3.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Media3/bin/Debug/net6.0/Media3.pdb
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Media3/obj/Debug/net6.0/Media3.csproj.AssemblyReference.cache
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Media3/obj/Debug/net6.0/Media3.GeneratedMSBuildEditorConfig.editorconfig
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Media3/obj/Debug/net6.0/Media3.AssemblyInfoInputs.cache
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Media3/obj/Debug/net6.0/Media3.AssemblyInfo.cs
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Media3/obj/Debug/net6.0/Media3.csproj.CoreCompileInputs.cache
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Media3/obj/Debug/net6.0/Media3.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Media3/obj/Debug/net6.0/ref/Media3.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Media3/obj/Debug/net6.0/Media3.pdb
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Desafios Iniciais - GFT Start/Media3/obj/Debug/net6.0/Media3.genruntimeconfig.cache

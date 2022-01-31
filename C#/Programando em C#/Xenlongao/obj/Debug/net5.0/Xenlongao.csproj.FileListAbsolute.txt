@@ -1,0 +1,16 @@
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/Xenlongao/bin/Debug/net5.0/Xenlongao
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/Xenlongao/bin/Debug/net5.0/Xenlongao.deps.json
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/Xenlongao/bin/Debug/net5.0/Xenlongao.runtimeconfig.json
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/Xenlongao/bin/Debug/net5.0/Xenlongao.runtimeconfig.dev.json
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/Xenlongao/bin/Debug/net5.0/Xenlongao.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/Xenlongao/bin/Debug/net5.0/ref/Xenlongao.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/Xenlongao/bin/Debug/net5.0/Xenlongao.pdb
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/Xenlongao/obj/Debug/net5.0/Xenlongao.csproj.AssemblyReference.cache
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/Xenlongao/obj/Debug/net5.0/Xenlongao.GeneratedMSBuildEditorConfig.editorconfig
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/Xenlongao/obj/Debug/net5.0/Xenlongao.AssemblyInfoInputs.cache
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/Xenlongao/obj/Debug/net5.0/Xenlongao.AssemblyInfo.cs
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/Xenlongao/obj/Debug/net5.0/Xenlongao.csproj.CoreCompileInputs.cache
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/Xenlongao/obj/Debug/net5.0/Xenlongao.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/Xenlongao/obj/Debug/net5.0/ref/Xenlongao.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/Xenlongao/obj/Debug/net5.0/Xenlongao.pdb
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/Xenlongao/obj/Debug/net5.0/Xenlongao.genruntimeconfig.cache

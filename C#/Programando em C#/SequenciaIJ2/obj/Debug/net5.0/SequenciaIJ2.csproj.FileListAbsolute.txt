@@ -1,0 +1,16 @@
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SequenciaIJ2/bin/Debug/net5.0/SequenciaIJ2
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SequenciaIJ2/bin/Debug/net5.0/SequenciaIJ2.deps.json
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SequenciaIJ2/bin/Debug/net5.0/SequenciaIJ2.runtimeconfig.json
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SequenciaIJ2/bin/Debug/net5.0/SequenciaIJ2.runtimeconfig.dev.json
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SequenciaIJ2/bin/Debug/net5.0/SequenciaIJ2.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SequenciaIJ2/bin/Debug/net5.0/ref/SequenciaIJ2.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SequenciaIJ2/bin/Debug/net5.0/SequenciaIJ2.pdb
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SequenciaIJ2/obj/Debug/net5.0/SequenciaIJ2.csproj.AssemblyReference.cache
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SequenciaIJ2/obj/Debug/net5.0/SequenciaIJ2.GeneratedMSBuildEditorConfig.editorconfig
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SequenciaIJ2/obj/Debug/net5.0/SequenciaIJ2.AssemblyInfoInputs.cache
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SequenciaIJ2/obj/Debug/net5.0/SequenciaIJ2.AssemblyInfo.cs
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SequenciaIJ2/obj/Debug/net5.0/SequenciaIJ2.csproj.CoreCompileInputs.cache
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SequenciaIJ2/obj/Debug/net5.0/SequenciaIJ2.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SequenciaIJ2/obj/Debug/net5.0/ref/SequenciaIJ2.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SequenciaIJ2/obj/Debug/net5.0/SequenciaIJ2.pdb
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Programando em C#/SequenciaIJ2/obj/Debug/net5.0/SequenciaIJ2.genruntimeconfig.cache
