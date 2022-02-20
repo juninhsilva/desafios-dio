@@ -1,0 +1,15 @@
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Introdução a Resolução de Desafios com C#/NumerosImpares/bin/Debug/net6.0/NumerosImpares
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Introdução a Resolução de Desafios com C#/NumerosImpares/bin/Debug/net6.0/NumerosImpares.deps.json
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Introdução a Resolução de Desafios com C#/NumerosImpares/bin/Debug/net6.0/NumerosImpares.runtimeconfig.json
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Introdução a Resolução de Desafios com C#/NumerosImpares/bin/Debug/net6.0/NumerosImpares.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Introdução a Resolução de Desafios com C#/NumerosImpares/bin/Debug/net6.0/NumerosImpares.pdb
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Introdução a Resolução de Desafios com C#/NumerosImpares/obj/Debug/net6.0/NumerosImpares.csproj.AssemblyReference.cache
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Introdução a Resolução de Desafios com C#/NumerosImpares/obj/Debug/net6.0/NumerosImpares.GeneratedMSBuildEditorConfig.editorconfig
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Introdução a Resolução de Desafios com C#/NumerosImpares/obj/Debug/net6.0/NumerosImpares.AssemblyInfoInputs.cache
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Introdução a Resolução de Desafios com C#/NumerosImpares/obj/Debug/net6.0/NumerosImpares.AssemblyInfo.cs
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Introdução a Resolução de Desafios com C#/NumerosImpares/obj/Debug/net6.0/NumerosImpares.csproj.CoreCompileInputs.cache
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Introdução a Resolução de Desafios com C#/NumerosImpares/obj/Debug/net6.0/NumerosImpares.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Introdução a Resolução de Desafios com C#/NumerosImpares/obj/Debug/net6.0/refint/NumerosImpares.dll
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Introdução a Resolução de Desafios com C#/NumerosImpares/obj/Debug/net6.0/NumerosImpares.pdb
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Introdução a Resolução de Desafios com C#/NumerosImpares/obj/Debug/net6.0/NumerosImpares.genruntimeconfig.cache
+/home/juninhsilva14/Documents/SI/cursos/desafios/desafios-bootcamps-dio/C#/Introdução a Resolução de Desafios com C#/NumerosImpares/obj/Debug/net6.0/ref/NumerosImpares.dll
